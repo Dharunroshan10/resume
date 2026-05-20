@@ -1,0 +1,2 @@
+# No external dependencies required for the Python backend.
+# This file is included for Vercel Python runtime compatibility.
